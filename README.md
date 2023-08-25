@@ -18,29 +18,29 @@ Aspiring to be and studing daily the Data Science👨🏽‍🔬
  </a>&nbsp;&nbsp;
 </p>
 
-<h3 align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SamoraDC&show_icons=true&count_private=true&theme=dark" width="550"></a>
-</h3>
-
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SamoraDC&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+             
 <h5 align='center'>
   💻 Remote Work<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
   <img src="https://img.shields.io/badge/Ryzen-7%205700U%20series%20-%230071C5.svg?&style=for-the-badge&logo=AMD&Color=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Radeon-Graphics%20-%2376B900.svg?&style=for-the-badge&logo=AMD&logoColor=white" />
 </h5>
+<details>
+<summary>📃 Resume</summary>
 
-<!--
-**SamoraDC/SamoraDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Studies
 
-Here are some ideas to get you started:
+### Internacional Trade
+📅2021-2023
+#### University Estacio de Sa - Jacareí, Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
