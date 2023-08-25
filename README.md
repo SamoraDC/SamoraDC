@@ -1,14 +1,16 @@
 <h1 align='center'>
- Hello World!🌎 I'm Davi Castro Samora
+ Hello World!🌎 I'm Davi Castro Samora🧑🏽‍💻
+
 </h1>
 
-<h4 align= 'center'>
+<h3 align= 'center'>
 Professional with 8+ years of experience, which was spent working in Industrial, Military and Defence. Always studying, reading articles and observing this World, and learning Data Science.
-</h2>
+</h3>
 
-<p align= 'center'>
-Current working at AMAZUL, as a Technician in Defense Technology
-</p>
+<h4 align= 'center'>
+Aspiring to be and studing daily the Data Science👨🏽‍🔬
+</h4>
+
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/samoradc/">
@@ -16,17 +18,17 @@ Current working at AMAZUL, as a Technician in Defense Technology
  </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SamoraDC&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+<h3 align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SamoraDC&show_icons=true&count_private=true&theme=dark" width="550"></a>
+</h3>
 
-<p align='center'>
-  💻 My Workspace<br/><br/>
+<h5 align='center'>
+  💻 Remote Work<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ryzen-7%205700U%20series%20-%230071C5.svg?&style=for-the-badge&logo=AMD&Color=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Radeon-Graphics%20-%2376B900.svg?&style=for-the-badge&logo=AMD&logoColor=white" />
-</p>
+</h5>
 
 <!--
 **SamoraDC/SamoraDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
