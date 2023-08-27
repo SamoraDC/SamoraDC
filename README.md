@@ -1,5 +1,5 @@
 <h1 align='center'>
- Hello World!🌎 I'm Davi Castro Samora🧑🏽‍💻
+ Hello World!🌎 I'm Davi Castro Samora🧑🏽‍💻 I'm From Brazil
 
 </h1>
 
@@ -21,6 +21,9 @@ Aspiring to be and studing daily the Data Science👨🏽‍🔬
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SamoraDC&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+<p align= 'center'>
+<a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamoraDC" width="250"></a>
+</p>
              
 <h5 align='center'>
   💻 Remote Work<br/><br/>
@@ -35,11 +38,23 @@ Aspiring to be and studing daily the Data Science👨🏽‍🔬
 
 ## Studies
 
-### Internacional Trade
+### Internacional Trade🚢💵
 📅2021-2023
 #### University Estacio de Sa - Jacareí, Brazil
 
+## Experience
 
+### - Amazônia Azul Tecnologia de Defesa S.A⚛️☢️
+📅Apr.2023 - Current
+#### Technician in Defense Technology
+
+### - Brazilian Navy🪖
+📅Jan.2020 - Apr.2023
+#### Specialized Military🔫🎖️
+
+### - Ford Motor Company🚗
+📅Jan.2015 - Jul.2019
+#### Automotive Mechanic Assistent/Production Assembler🔧🔩
 
 
 
