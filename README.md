@@ -1,14 +1,14 @@
 <h1 align='center'>
- Hello World!🌎 I'm Davi Castro Samora🧑🏽‍💻 I'm From Brazil
+ Hello World!🌎 I'm Davi Castro Samora🧑🏽‍💻 From Brazil🇧🇷
 
 </h1>
 
 <h3 align= 'center'>
-Professional with 8+ years of experience, which was spent working in Industrial, Military and Defence. Always studying, reading articles and observing this World, and learning Data Science.
+Professional with 🎱+ years of experience, which was spent working in Industrial🧑‍🏭, Military🪖 and Defence Department👨‍💼. Always studying, love reading technology articles📖 and observing the beauty Nature🌳, and in the moment learning Data Science.
 </h3>
 
 <h4 align= 'center'>
-Aspiring to be and studing daily the Data Science👨🏽‍🔬
+That's a small part of Me☂️⚡
 </h4>
 
 
@@ -33,29 +33,58 @@ Aspiring to be and studing daily the Data Science👨🏽‍🔬
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Radeon-Graphics%20-%2376B900.svg?&style=for-the-badge&logo=AMD&logoColor=white" />
 </h5>
+
 <details>
 <summary>📃 Resume</summary>
 
-## Studies
+ <p aling='center'>
+
+ ## Graduation
 
 ### Internacional Trade🚢💵
-📅2021-2023
-#### University Estacio de Sa - Jacareí, Brazil
+📅Jan.2021 - Current
+#### University Estácio de Sá
+Jacareí, Brazil
+
+### Courses and Certificates
+
+### Santader Ciência de Dados(Data Science) BootCamp👨‍💻
+📅Aug.2023 - Current
+#### Digital Inovation One 
+Online
+
+### Potência Tech powered by iFood | Ciência de Dados(Data Science)👨‍💻
+📅Jun.2023 - Current
+#### Digital Inovation One 
+Online
+
+### Certificate in Mechatronics👨‍💻
+📅Jan.2016 - Dez.2018
+#### Colégio Pentágono 
+Santo André, Brazil
+
+### Certificate in Automotive Mechanic👨‍🔧
+📅Jan.2015 - Dez.2016
+#### SENAI 
+São Bernado do Campo, Brazil
+
 
 ## Experience
 
-### - Amazônia Azul Tecnologia de Defesa S.A⚛️☢️
+### - Amazônia Azul Tecnologia de Defesa S.A:electron:
 📅Apr.2023 - Current
-#### Technician in Defense Technology
+#### Technician in Defense Technology👨‍💼👨‍💻
+São Paulo, Brazil
 
-### - Brazilian Navy🪖
+### - Brazilian Navy/Marines🪖
 📅Jan.2020 - Apr.2023
 #### Specialized Military🔫🎖️
+Florianópolis/Itajaí/Santos/Rio de Janeiro/São Sebastião/São Paulo, Brazil
 
 ### - Ford Motor Company🚗
 📅Jan.2015 - Jul.2019
 #### Automotive Mechanic Assistent/Production Assembler🔧🔩
-
+São Bernardo do Campo, Brazil
 
 
 
