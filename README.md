@@ -11,13 +11,6 @@ Professional with 🎱+ years of experience, which was spent working in Industri
 That's a small part of Me☂️⚡
 </h4>
 
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/samoradc/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>&nbsp;&nbsp;
-</p>
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SamoraDC&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
@@ -51,7 +44,7 @@ Jacareí, Brazil
 ### Santader Ciência de Dados(Data Science) BootCamp👨‍💻
 📅Aug.2023 - Current
 #### Digital Inovation One 
-Online
+Online 
 
 ### Potência Tech powered by iFood | Ciência de Dados(Data Science)👨‍💻
 📅Jun.2023 - Current
@@ -71,9 +64,10 @@ São Bernado do Campo, Brazil
 
 ## Experience
 
-### - Amazônia Azul Tecnologia de Defesa S.A:electron:
+### - Amazônia Azul Tecnologia de Defesa S.A  <img src="https://img.shields.io/badge/Amazul-0078d4?style=for-the-badge&logo=Amazul-9&logoColor=white" />   :electron:
 📅Apr.2023 - Current
-#### Technician in Defense Technology👨‍💼👨‍💻
+#### Technician in Defense Technology👨‍💼👨‍💻    <img src="https://img.shields.io/badge/%22C%3A%5CUsers%5C47949239883%5CPictures%5CSaved%20Pictures%5CAmazul-768x374.jpg%22" />
+
 São Paulo, Brazil
 
 ### - Brazilian Navy/Marines🪖
@@ -85,6 +79,19 @@ Florianópolis/Itajaí/Santos/Rio de Janeiro/São Sebastião/São Paulo, Brazil
 📅Jan.2015 - Jul.2019
 #### Automotive Mechanic Assistent/Production Assembler🔧🔩
 São Bernardo do Campo, Brazil
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/samoradc/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>&nbsp;&nbsp;
+</p>
+
+
+
+
+
+
+
 
 
 
