@@ -8,7 +8,7 @@ Professional with 🎱+ years of experience, which was spent working in Industri
 </h3>
 
 <h4 align= 'center'>
-That's a small part of Me☂️⚡
+A Ex-Marine🪖 working with Tech☂️⚡
 </h4>
 
 <p align='center'>
