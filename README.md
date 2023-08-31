@@ -64,7 +64,7 @@ São Bernado do Campo, Brazil
 
 ## Experience
 
-### - Amazônia Azul Tecnologia de Defesa S.A  <img src="https://img.shields.io/badge/Amazul-0078d4?style=for-the-badge&logo=Amazul-9&logoColor=white" />   :electron:
+### - Amazônia Azul Tecnologia de Defesa S.A:electron:
 📅Apr.2023 - Current
 #### Technician in Defense Technology👨‍💼👨‍💻    <img src="https://img.shields.io/badge/%22C%3A%5CUsers%5C47949239883%5CPictures%5CSaved%20Pictures%5CAmazul-768x374.jpg%22" />
 
