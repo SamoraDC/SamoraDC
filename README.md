@@ -32,7 +32,7 @@ A Ex-Marine🪖 working with Tech☂️⚡
 
  <p aling='center'>
 
- ## Graduation
+ ## Graduation:👨🏽‍🎓
 
 ### Internacional Trade🚢💵
 📅Jan.2021 - Current
@@ -62,11 +62,11 @@ Santo André, Brazil
 São Bernado do Campo, Brazil
 
 
-## Experience
+## Experience🧑🏽‍💼
 
 ### - Amazônia Azul Tecnologia de Defesa S.A:electron:
 📅Apr.2023 - Current
-#### Technician in Defense Technology👨‍💼👨‍💻    <img src="https://img.shields.io/badge/%22C%3A%5CUsers%5C47949239883%5CPictures%5CSaved%20Pictures%5CAmazul-768x374.jpg%22" />
+#### Technician in Defense Technology👨‍💼👨‍💻    
 
 São Paulo, Brazil
 
