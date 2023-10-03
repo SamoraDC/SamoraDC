@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align= 'center'>
-With over 🎱 years of experience spanning various fields, I'm now running into the Data Science driven by my desire and passion for choices based on facts and evidence.
+With over 🎱 years of experience spanning various fields, I'm now running into the Data Science, driven by my desire and passion for choices based on facts and evidence.
 <h4 align= 'center'>
 A Ex-Marine🪖 working with Tech☂️⚡
 </h4>
