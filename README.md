@@ -4,9 +4,7 @@
 </h1>
 
 <h3 align= 'center'>
-With over 🎱 years of experience spanning various fields, including industrial🧰, military🪖, and defense👨🏽‍💼 sectors, I am currently transitioning into the data field driven by my desire and passion for evidence-based decision-making. I am dedicated to continuous learning and staying updated on data science techniques and tools, aiming to tackle complex challenges and drive innovation.
-
-Currently, I possess an intermediate level of proficiency in Python🐍 and Jupyter Notebook, with experience in data manipulation and visualization. I am committed to enhancing my skills in Mathematics, Statistics, and Machine Learning🤖 with the goal of becoming a comprehensive and effective Data Scientist👨‍🔬.
+With over 🎱 years of experience spanning various fields, I'm now running into the Data Science driven by my desire and passion for choices based on facts and evidence.
 <h4 align= 'center'>
 A Ex-Marine🪖 working with Tech☂️⚡
 </h4>
