@@ -34,7 +34,7 @@ A Ex-Marine🪖 working with Tech☂️⚡
 
 ### Internacional Trade🚢💵
 📅Jan.2021 - Current
-#### University Estácio de Sá
+#### UNESA
 Jacareí, Brazil
 
 ### Courses and Certificates
