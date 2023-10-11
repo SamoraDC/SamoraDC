@@ -70,7 +70,7 @@ São Paulo, Brazil
 
 ### - Brazilian Navy/Marines🪖
 📅Jan.2020 - Apr.2023
-#### Specialized Military🔫🎖️
+#### Specialized Marksman🔫🎖️
 Florianópolis/Itajaí/Santos/Rio de Janeiro/São Sebastião/São Paulo, Brazil
 
 ### - Ford Motor Company🚗
