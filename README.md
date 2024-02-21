@@ -1,4 +1,4 @@
-<img width=75% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo+🌎!+Meu+Nome+é+Davi+Castro+Samora;Bem+Vindo+ao+Meu+GitHub+😊)](https://git.io/typing-svg)
