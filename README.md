@@ -1,13 +1,17 @@
-<h1 align='center'>
- Hello World!🌎 I'm Davi Castro Samora🧑🏽‍💻 From Brazil🇧🇷
+<img width=75% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=120&section=header"/>
 
-</h1>
 
-<h3 align= 'center'>
-With over 🎱 years of experience spanning various fields, I'm now running into the Data Science, driven by my desire and passion for choices based on facts and evidence.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo+🌎!+Meu+Nome+é+Davi+Castro+Samora;Bem+Vindo+ao+Meu+GitHub+😊)](https://git.io/typing-svg)
+
 <h4 align= 'center'>
-A Ex-Marine🪖 working with Tech☂️⚡
-</h4>
+Profissional com mais de 9 anos de experiência abrangendo diversos setores, incluindo Industrial, Militar e de
+Defesa, Possuo habilidades de análise de dados com Python, RStudio, SQL, Tableau e uso de ferramentas como Jupyter Notebook,
+PostgreSQL, BigQuery, e das bibliotecas Python: Pandas, Matplotlib, Seaborn, Scipy, Statsmodels, Numpy e
+Scikit-learn, além de análise preditivas de séries temporais. Sou dedicado a constante aprendizagem, com o
+objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dados.
+<h5 align= 'center'>
+
+</h5>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SamoraDC&show_icons=true&count_private=true&theme=dark" width="350"></a>
