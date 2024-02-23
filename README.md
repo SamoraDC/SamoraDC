@@ -3,13 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo+🌎!+Meu+Nome+é+Davi+Castro+Samora;Bem+Vindo+ao+Meu+GitHub+😊)](https://git.io/typing-svg)
 
-<h4 align= 'center'>
+<h3 align= 'center'>
 Profissional com mais de 9 anos de experiência abrangendo diversos setores, incluindo Industrial, Militar e de
 Defesa, Possuo habilidades de análise de dados com Python, RStudio, SQL, Tableau e uso de ferramentas como Jupyter Notebook,
 PostgreSQL, BigQuery, e das bibliotecas Python: Pandas, Matplotlib, Seaborn, Scipy, Statsmodels, Numpy e
 Scikit-learn, além de análise preditivas de séries temporais. Sou dedicado a constante aprendizagem, com o
 objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dados.
-<h5 align= 'center'>
+<h3 align= 'center'>
 
 </h5>
 
@@ -21,7 +21,7 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
 </p>
              
 <h5 align='center'>
-  💻 Remote Work<br/><br/>
+  Setup Remoto 💻<br/><br/>
   <img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
   <img src="https://img.shields.io/badge/Ryzen-7%205700U%20series%20-%230071C5.svg?&style=for-the-badge&logo=AMD&Color=white" />
@@ -29,58 +29,33 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
   <img src="https://img.shields.io/badge/Radeon-Graphics%20-%2376B900.svg?&style=for-the-badge&logo=AMD&logoColor=white" />
 </h5>
 
-<details>
-<summary>📃 Resume</summary>
 
- <p aling='center'>
-
- ## Graduation:👨🏽‍🎓
-
-### Internacional Trade🚢💵
-📅Jan.2021 - Current
-#### UNESA
-Jacareí, Brazil
-
-### Courses and Certificates
-
-### Santader Ciência de Dados(Data Science) BootCamp👨‍💻
-📅Aug.2023 - Current
-#### Digital Inovation One 
-Online 
-
-### Potência Tech powered by iFood | Ciência de Dados(Data Science)👨‍💻
-📅Jun.2023 - Current
-#### Digital Inovation One 
-Online
-
-### Certificate in Mechatronics👨‍💻
-📅Jan.2016 - Dez.2018
-#### Colégio Pentágono 
-Santo André, Brazil
-
-### Certificate in Automotive Mechanic👨‍🔧
-📅Jan.2015 - Dez.2016
-#### SENAI 
-São Bernado do Campo, Brazil
-
-
-## Experience🧑🏽‍💼
-
-### - Amazônia Azul Tecnologia de Defesa S.A:electron:
-📅Apr.2023 - Current
-#### Technician in Defense Technology👨‍💼👨‍💻    
-
-São Paulo, Brazil
-
-### - Brazilian Navy/Marines🪖
-📅Jan.2020 - Apr.2023
-#### Specialized Marksman🔫🎖️
-Florianópolis/Itajaí/Santos/Rio de Janeiro/São Sebastião/São Paulo, Brazil
-
-### - Ford Motor Company🚗
-📅Jan.2015 - Jul.2019
-#### Automotive Mechanic Assistent/Production Assembler🔧🔩
-São Bernardo do Campo, Brazil
+<h5 align='center'>
+  Ferramentas 🪛
+<div style="display: inline_block"><br>
+  <img align="center" alt="Canta-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Canta-Jupyter" height="40" width="40" src="https://devicons.railway.app/i/jupyter.svg" />
+  <img align="center" alt="Canta-R" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
+  <img align="center" alt="Canta-Tableau" height="40" width="40" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />   
+  <img  align="center" alt="Canta-Post" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+</div>
+<br />
+</h5>
+<h5 align='center'>
+  Bibliotecas Python
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Canta-Numpy" height="30" width="40" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img align="center" alt="Canta-Pandas" height="30" width="40" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="Canta-Ploty" height="30" width="40" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img align="center" alt="Canta-SkLearn" height="30" width="40" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />   
+  
+</h5>
+<p align='center'>
+<a href="https://www.upwork.com/freelancers/~01f757399d20db8352?viewMode=1">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
+ </a>&nbsp;&nbsp;
+</p> 
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/samoradc/">
