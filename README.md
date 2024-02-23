@@ -34,11 +34,11 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
   Ferramentas 🪛
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Canta-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Canta-Jupyter" height="40" width="40" src="https://devicons.railway.app/i/jupyter.svg" />
-  <img align="center" alt="Canta-R" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
-  <img align="center" alt="Canta-Tableau" height="40" width="40" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />   
-  <img  align="center" alt="Canta-Post" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Canta-Python" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://devicons.railway.app/i/jupyter.svg" />
+  <img align="center" alt="Canta-R" height="40" width="80" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
+  <img align="center" alt="Canta-Tableau" height="40" width="80" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />   
+  <img  align="center" alt="Canta-Post" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
 <br />
 <hr>
@@ -48,10 +48,10 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
   Bibliotecas Python
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Canta-Numpy" height="30" width="40" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img align="center" alt="Canta-Pandas" height="30" width="40" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img align="center" alt="Canta-Ploty" height="30" width="40" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img align="center" alt="Canta-SkLearn" height="30" width="40" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />   
+  <img align="center" alt="Canta-Numpy" height="30" width="80" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img align="center" alt="Canta-Pandas" height="30" width="80" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="Canta-Ploty" height="30" width="80" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img align="center" alt="Canta-SkLearn" height="30" width="80" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />   
 <hr>
 </h3>
 <h3 align='center'>
