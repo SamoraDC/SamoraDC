@@ -11,8 +11,9 @@ Scikit-learn, além de análise preditivas de séries temporais. Sou dedicado a 
 objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dados.
 <h3 align= 'center'>
 
-</h5>
+  [![Davi Samora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samoradc&theme=react-dark)](https://github.com/samoradc/github-readme-activity-graph)
 
+</h5>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SamoraDC&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
