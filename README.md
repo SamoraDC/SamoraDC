@@ -65,7 +65,15 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
     </a>&nbsp;&nbsp;
 </p>
 
+<div align="center">
+  <br><p align="centre"><b>Contagem de Visitantes do Perfil</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{samoradc}/count.svg" /></p> 
+  <br>
+</div>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=120&section=footer"/>
 
 
 
