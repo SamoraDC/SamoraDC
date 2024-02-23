@@ -51,17 +51,20 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
   <img align="center" alt="Canta-SkLearn" height="30" width="40" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />   
   
 </h5>
-<p align='center'>
-<a href="https://www.upwork.com/freelancers/~01f757399d20db8352?viewMode=1">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
- </a>&nbsp;&nbsp;
-</p> 
+<h5 align='center'>
+    Perfis Profissionais
+</h5>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/samoradc/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>&nbsp;&nbsp;
+    <a href="https://www.upwork.com/freelancers/~01f757399d20db8352?viewMode=1">
+        <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
+    </a>&nbsp;&nbsp;
+<p align='center'>
+    <a href="https://www.linkedin.com/in/samoradc/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
 </p>
+
 
 
 
