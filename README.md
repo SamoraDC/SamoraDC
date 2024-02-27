@@ -69,13 +69,14 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
         <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
     </a>
 </div>
-
+<hr>
 
 <div align="center">
   <br><p align="centre"><b>Contagem de Visitantes do Perfil</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{samoradc}/count.svg" /></p> 
   <br>
 </div>
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
