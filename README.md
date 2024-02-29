@@ -3,13 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo+🌎!;+Meu+Nome+é+Davi+Castro+Samora;Bem+Vindo+ao+Meu+GitHub+😊)](https://git.io/typing-svg)
 
-<h3 align= 'center'>
-Profissional com mais de 9 anos de experiência abrangendo diversos setores, incluindo Industrial, Militar e de
-Defesa, Possuo habilidades de análise de dados com Python, RStudio, SQL, Tableau e uso de ferramentas como Jupyter Notebook,
-PostgreSQL, BigQuery, e das bibliotecas Python: Pandas, Matplotlib, Seaborn, Scipy, Statsmodels, Numpy e
-Scikit-learn, além de análise preditivas de séries temporais. Sou dedicado a constante aprendizagem, com o
+<h7 align= 'center'>
+  
+> Profissional com mais de 9 anos de experiência abrangendo diversos setores, incluindo Industrial, Militar e de
+Defesa, Possuo habilidades de análise de dados com `Python`, `RStudio`, `SQL`, `Tableau` e uso de ferramentas como `Jupyter Notebook`,
+`PostgreSQL`, `BigQuery`, e Proficiente no uso das bibliotecas Python: Pandas, Numpy, Scipy, Matplotlib, Seaborn, Statsmodels, Scikit-learn, AutoTS, além de análise preditivas de séries temporais. Sou dedicado a constante aprendizagem, com o
 objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dados.
-<h3 align= 'center'>
+<h7 align= 'center'>
 
   [![Davi Samora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samoradc&theme=react-dark)](https://github.com/samoradc/github-readme-activity-graph)
 
