@@ -7,7 +7,7 @@
   
 > Profissional com mais de 9 anos de experiência abrangendo diversos setores, incluindo Industrial, Militar e de
 Defesa, Possuo habilidades de análise de dados com `Python`, `RStudio`, `SQL`, `Tableau` e uso de ferramentas como `Jupyter Notebook`,
-`PostgreSQL`, `BigQuery`, e Proficiente no uso das bibliotecas Python: Pandas, Numpy, Scipy, Matplotlib, Seaborn, Statsmodels, Scikit-learn, AutoTS, análise preditivas de séries temporais e inferência estatística. Sou dedicado a constante aprendizagem, com o
+`PostgreSQL`, `BigQuery`, e Proficiente no uso das bibliotecas Python: Pandas, Numpy, Scipy, Matplotlib, Seaborn, Statsmodels, Scikit-learn, AutoTS. E experiência com Econometria teórica e aplicada, análise preditivas de séries temporais e inferência estatística. Sou dedicado a constante aprendizagem, com o
 objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dados.
 <h7 align= 'center'>
 
