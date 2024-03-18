@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Olá+Mundo+🌎!;+Meu+Nome+é+Davi+Castro+Samora;Bem+Vindo+ao+Meu+GitHub+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Olá+Mundo+🌎!;+Meu+Nome+é+Davi+Castro+Samora;Bem+Vindo+ao+Meu+GitHub+😎)](https://git.io/typing-svg)
 
 <h7 align= 'center'>
   
@@ -69,7 +69,7 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
         <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
     </a>
     <a href="https://www.workana.com/freelancer/586ac78626cc57098868f4b48699e405">
-      <img src="https://img.shields.io/badge/Workana-6FDA44?style=for-the-badge&logo=Workana&logoColor=white">
+      <img src="https://img.shields.io/badge/Workana-FF6A00?style=for-the-badge&logo=Workana&logoColor=white">
 </div>
 <hr>
 
