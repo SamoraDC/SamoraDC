@@ -56,7 +56,7 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
 <hr>
 </h3>
 <h3 align='center'>
-    Perfis Profissionais
+    Perfis 
 </h3>
 
 
@@ -70,6 +70,8 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
     </a>
     <a href="https://www.workana.com/freelancer/586ac78626cc57098868f4b48699e405">
       <img src="https://img.shields.io/badge/Workana-FF6A00?style=for-the-badge&logo=Workana&logoColor=white">
+      <a href="https://www.kaggle.com/samoradc">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 </div>
 <hr>
 
