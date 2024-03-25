@@ -13,12 +13,12 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
 
   [![Davi Samora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samoradc&theme=react-dark)](https://github.com/samoradc/github-readme-activity-graph)
 
+
 </h5>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SamoraDC&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-<p align= 'center'>
-<a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamoraDC" width="250"></a>
+<p align='center'>
+  <a href="#"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=samoradc&theme=blue-green" width="350"></a>
 </p>
              
 <h3 align='center'>
@@ -53,6 +53,7 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
   <img align="center" alt="Canta-Pandas" height="30" width="80" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img align="center" alt="Canta-Ploty" height="30" width="80" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
   <img align="center" alt="Canta-SkLearn" height="30" width="80" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />   
+  <img align="center" alt="Canta-SkLearn" height="30" width="80" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
 <hr>
 </h3>
 <h3 align='center'>
