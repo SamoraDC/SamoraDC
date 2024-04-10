@@ -64,14 +64,17 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
 
 <div align='center'> 
     <a href="https://www.linkedin.com/in/samoradc/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+    </a>
+    <a href="https://medium.com/@samora.davi">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
     </a>
     <a href="https://www.upwork.com/freelancers/~01f757399d20db8352?viewMode=1">
-        <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
+      <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
     </a>
     <a href="https://www.workana.com/freelancer/586ac78626cc57098868f4b48699e405">
       <img src="https://img.shields.io/badge/Workana-FF6A00?style=for-the-badge&logo=Workana&logoColor=white">
-      <a href="https://www.kaggle.com/samoradc">
+    <a href="https://www.kaggle.com/samoradc">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 </div>
 <hr>
