@@ -5,10 +5,10 @@
 
 <h7 align= 'center'>
   
-> Profissional com mais de 9 anos de experiência abrangendo diversos setores, incluindo Industrial, Militar e de
-Defesa, Possuo habilidades de análise de dados com `Python`, `RStudio`, `SQL`, `Tableau` e uso de ferramentas como `Jupyter Notebook`,
-`PostgreSQL`, `BigQuery`. E experiência com `Econometria Aplicada`, `Análise Preditivas de Séries Temporais`, `Inferência Estatística` e `Inferência Causal`. Sou dedicado a constante aprendizagem, com o
-objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dados.
+> Profissional specialized in data science using Python, RStudio, SQL, and Tableau. Experienced in Applied 
+Econometrics, Predictive Time Series Analysis using neural networks, also Statistical and Causal Inference, 
+Machine Learning, and Deep Learning. Committed to continuous learning and equipped to tackle complex 
+challenges, always aiming for data-driven decision-making.
 <h7 align= 'center'>
 
   [![Davi Samora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samoradc&theme=react-dark)](https://github.com/samoradc/github-readme-activity-graph)
@@ -22,7 +22,7 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
 </p>
              
 <h3 align='center'>
-  Setup Remoto 💻<br/><br/>
+ Remote Setup 💻<br/><br/>
   <img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
   <img src="https://img.shields.io/badge/Ryzen-7%205700U%20series%20-%230071C5.svg?&style=for-the-badge&logo=AMD&Color=white" />
@@ -32,7 +32,7 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
 <hr>
 
 <h3 align='center'>
-  Ferramentas 🪛
+  Tools 🪛
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Canta-Python" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -46,7 +46,7 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
   
 </h3>
 <h3 align='center'>
-  Bibliotecas Python
+  Python Libraries
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Canta-Numpy" height="30" width="80" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -57,7 +57,7 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
 <hr>
 </h3>
 <h3 align='center'>
-    Perfis 
+    Profiles 
 </h3>
 
 
