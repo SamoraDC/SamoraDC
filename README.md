@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Olá+Mundo+🌎!;+Meu+Nome+é+Davi+Castro+Samora;Bem+Vindo+ao+Meu+GitHub+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Hello+World+🌎!;+I+Am+Davi+Castro+Samora;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
 
 <h7 align= 'center'>
   
@@ -93,7 +93,7 @@ objetivo de enfrentar desafios complexos e impulsionar a decisão baseada em dad
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+por+me+visitar!;Até+a+Próxima+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;See+You+Around+😊)](https://git.io/typing-svg)
 
 
 
