@@ -80,7 +80,7 @@ challenges, always aiming for data-driven decision-making.
 <hr>
 
 <div align="center">
-  <br><p align="centre"><b>Contagem de Visitantes do Perfil</b></p>  
+  <br><p align="centre"><b>Profile Visitor Count</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{samoradc}/count.svg" /></p> 
   <br>
 </div>
