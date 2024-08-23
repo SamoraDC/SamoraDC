@@ -49,7 +49,7 @@ motivated, and committed to delivering high-quality solutions.
   
 </h3>
 <h3 align='center'>
-  Python Libraries
+  Python Libraries 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Canta-Numpy" height="30" width="80" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -100,7 +100,7 @@ motivated, and committed to delivering high-quality solutions.
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;See+You+Around+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;Check+Out+My+Professional+Profiles+as+Well!;See+You+Around+😊)](https://git.io/typing-svg)
 
 
 
