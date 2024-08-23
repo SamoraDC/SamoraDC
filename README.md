@@ -1,14 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Hello+World+🌎!;+I+Am+Davi+Castro+Samora;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Hello+World+🌎!;+I+Am+Davi+Castro+Samora;+Data+Scientist+-+Econometrician;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
 
 <h7 align= 'center'>
   
 > Data Scientist with a strong background in econometrics, time series analysis, and
 statistical inference. Expert in applying machine learning techniques for predictive
 modeling and complex data analysis, with a specialization in causal inference to identify
-cause-and-effect relationships between variables.
+cause-and-effect relationships between variables. Dedicated to providing actionable
+insights from data to support strategic decision-making. Proactive, detail-oriented, self-
+motivated, and committed to delivering high-quality solutions.
 <h7 align= 'center'>
 
   [![Davi Samora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samoradc&theme=react-dark)](https://github.com/samoradc/github-readme-activity-graph)
