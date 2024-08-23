@@ -5,10 +5,10 @@
 
 <h7 align= 'center'>
   
-> Profissional specialized in data science using Python, RStudio, SQL, and Tableau. Experienced in Applied 
-Econometrics, Predictive Time Series Analysis using neural networks, also Statistical and Causal Inference, 
-Machine Learning, and Deep Learning. Committed to continuous learning and equipped to tackle complex 
-challenges, always aiming for data-driven decision-making.
+> Data Scientist with a strong background in econometrics, time series analysis, and
+statistical inference. Expert in applying machine learning techniques for predictive
+modeling and complex data analysis, with a specialization in causal inference to identify
+cause-and-effect relationships between variables.
 <h7 align= 'center'>
 
   [![Davi Samora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samoradc&theme=react-dark)](https://github.com/samoradc/github-readme-activity-graph)
@@ -38,8 +38,9 @@ challenges, always aiming for data-driven decision-making.
   <img align="center" alt="Canta-Python" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://devicons.railway.app/i/jupyter.svg" />
   <img align="center" alt="Canta-R" height="40" width="80" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
+  <img align="center" alt="Canta-Post" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Canta-Tableau" height="40" width="80" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />   
-  <img  align="center" alt="Canta-Post" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Canta-PowerBI" height="40" width="80" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> 
 </div>
 <br />
 <hr>
@@ -54,10 +55,11 @@ challenges, always aiming for data-driven decision-making.
   <img align="center" alt="Canta-Ploty" height="30" width="80" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
   <img align="center" alt="Canta-SkLearn" height="30" width="80" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />   
   <img align="center" alt="Canta-SkLearn" height="30" width="80" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
+  <img align="center" alt="Canta-TensorFlow" height="30" width="80" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <hr>
 </h3>
 <h3 align='center'>
-    Profiles 
+   Professional Profiles 
 </h3>
 
 
@@ -76,6 +78,9 @@ challenges, always aiming for data-driven decision-making.
       <img src="https://img.shields.io/badge/Workana-FF6A00?style=for-the-badge&logo=Workana&logoColor=white">
     <a href="https://www.kaggle.com/samoradc">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+    </a>
+      <a href="http://pph.me/SamoraDC">
+        <img src="https://img.shields.io/badge/People%20per%20Hour-FF6900?style=for-the-badge&logo=peopleperhour&logoColor=white">
 </div>
 <hr>
 
