@@ -7,7 +7,7 @@
   
 > Data Scientist with a strong background in econometrics, time series analysis, and
 statistical inference. Expert in applying machine learning techniques for predictive
-modeling and complex data analysis, with a specialization in causal inference to identify
+modeling and complex data analysis, with knowledge in causal inference to identify
 cause-and-effect relationships between variables. Dedicated to providing actionable
 insights from data to support strategic decision-making. Proactive, detail-oriented, self-
 motivated, and committed to delivering high-quality solutions.
