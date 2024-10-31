@@ -1,16 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Hello+World+🌎!;My+Name+is+Davi+Castro+Samora;I'm+a+Data+Scientist🧑🏽‍💻;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Hello+World+🌎!;+I+Am+Davi+Castro+Samora;+Data+Scientist+-+Econometrician;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
 
 <h7 align= 'center'>
   
-> Data Scientist with a strong background in econometrics, time series analysis, and
-statistical inference. Expert in applying machine learning techniques for predictive
-modeling and complex data analysis, with knowledge in causal inference to identify
-cause-and-effect relationships between variables. Dedicated to providing actionable
-insights from data to support strategic decision-making. Proactive, detail-oriented, self-
-motivated, and committed to delivering high-quality solutions.
+> Data Scientist specialized in predictive modeling and causal inference, focused on data
+analysis and applying machine learning techniques. Experienced in statistics, time
+series, econometrics, heuristics and predictive model development. Skilled in Python
+and R for statistical modeling and machine learning, with a strong foundation in
+algorithms, data structures,probability, and statistics.
 <h7 align= 'center'>
 
   [![Davi Samora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samoradc&theme=react-dark)](https://github.com/samoradc/github-readme-activity-graph)
@@ -39,7 +38,10 @@ motivated, and committed to delivering high-quality solutions.
 <div style="display: inline_block"><br>
   <img align="center" alt="Canta-Python" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://devicons.railway.app/i/jupyter.svg" />
+  <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img align="center" alt="Canta-R" height="40" width="80" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
+  <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
   <img align="center" alt="Canta-Post" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Canta-Tableau" height="40" width="80" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />   
   <img align="center" alt="Canta-PowerBI" height="40" width="80" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> 
@@ -58,6 +60,8 @@ motivated, and committed to delivering high-quality solutions.
   <img align="center" alt="Canta-SkLearn" height="30" width="80" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />   
   <img align="center" alt="Canta-SkLearn" height="30" width="80" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
   <img align="center" alt="Canta-TensorFlow" height="30" width="80" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img align="center" alt="Canta-TensorFlow" height="30" width="80" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img align="center" alt="Canta-TensorFlow" height="30" width="80" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <hr>
 </h3>
 <h3 align='center'>
