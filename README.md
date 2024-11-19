@@ -7,9 +7,11 @@
   
 > Data Scientist specialized in predictive modeling and causal inference, focused on data
 analysis and applying machine learning techniques. Experienced in statistics, time
-series, econometrics, heuristics and predictive model development. Skilled in Python
-and R for statistical modeling and machine learning, with a strong foundation in
+series, econometrics, heuristics and predictive model development.
+Skilled in Python and R for statistical modeling and machine learning, with a strong foundation in
 algorithms, data structures,probability, and statistics.
+
+> Currently focused on the development of AI agents using the LangChain framework, integrating state-of-the-art natural language processing and generative AI capabilities.
 <h7 align= 'center'>
 
   [![Davi Samora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samoradc&theme=react-dark)](https://github.com/samoradc/github-readme-activity-graph)
@@ -86,7 +88,7 @@ algorithms, data structures,probability, and statistics.
 
 </h3>
 <h3 align='center'>
-   Professional Profiles 
+   Professional Profiles (Click to pay a Visit 😜) 
 </h3>
 
 <div align='center'> 
