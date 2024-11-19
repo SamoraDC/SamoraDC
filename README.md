@@ -50,19 +50,30 @@ algorithms, data structures,probability, and statistics.
 <hr>
   
 </h3>
-<h3 align='center'>
+<h3 align="center">
   Python Libraries 
+</h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Canta-Numpy" height="30" width="80" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img align="center" alt="Canta-Pandas" height="30" width="80" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img align="center" alt="Canta-Ploty" height="30" width="80" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img align="center" alt="Canta-SkLearn" height="30" width="80" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />   
-  <img align="center" alt="Canta-SkLearn" height="30" width="80" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
-  <img align="center" alt="Canta-TensorFlow" height="30" width="80" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img align="center" alt="Canta-TensorFlow" height="30" width="80" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img align="center" alt="Canta-TensorFlow" height="30" width="80" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<div align="center">
+  <div style="display: inline-block; text-align: center;">
+    <img alt="Numpy" height="30" width="80" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img alt="Pandas" height="30" width="80" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img alt="Plotly" height="30" width="80" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+  </div>
+  <div style="display: inline-block; text-align: center; margin-top: 10px;">
+    <img alt="Scikit-learn" height="30" width="80" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />   
+    <img alt="SciPy" height="30" width="80" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
+    <img alt="TensorFlow" height="30" width="80" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  </div>
+  <div style="display: inline-block; text-align: center; margin-top: 10px;">
+    <img alt="PyTorch" height="30" width="80" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img alt="LangChain" height="30" width="80" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <img alt="LangGraph" height="30" width="80" src="https://img.shields.io/badge/LangGraph-1C283C?style=for-the-badge&logo=langchain&logoColor=white" />
+  </div>
+</div>
+
 <hr>
+
 </h3>
 <h3 align='center'>
    Professional Profiles 
