@@ -25,10 +25,14 @@ algorithms, data structures,probability, and statistics.
 <h3 align='center'>
  Remote Setup 💻<br/><br/>
   <img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ryzen-7%205700U%20series%20-%230071C5.svg?&style=for-the-badge&logo=AMD&Color=white" />
+  <div style="display: inline-block; text-align: center;">
+    <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ryzen-7%205700U%20series%20-%230071C5.svg?&style=for-the-badge&logo=AMD&Color=white" />
+  </div>
+  <div style="display: inline-block; text-align: center;">
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Radeon-Graphics%20-%2376B900.svg?&style=for-the-badge&logo=AMD&logoColor=white" />
+  </div>
 </h3>
 <hr>
 
@@ -36,16 +40,22 @@ algorithms, data structures,probability, and statistics.
   Tools 🪛
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Canta-Python" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://devicons.railway.app/i/jupyter.svg" />
-  <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-  <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img align="center" alt="Canta-R" height="40" width="80" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
-  <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+  <div style="display: inline-block; text-align: center;"> 
+    <img align="center" alt="Canta-Python" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://devicons.railway.app/i/jupyter.svg" />
+    <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+   </div> 
+  <div style="display: inline-block; text-align: center;"> 
+    <img align="center" alt="Canta-Cursor" height="40" width="80" src="https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img align="center" alt="Canta-R" height="40" width="80" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
+    <img align="center" alt="Canta-Jupyter" height="40" width="80" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+  </div>
+  <div style="display: inline-block; text-align: center;"> 
   <img align="center" alt="Canta-Post" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Canta-Tableau" height="40" width="80" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />   
   <img align="center" alt="Canta-PowerBI" height="40" width="80" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> 
 </div>
+  </div>
 <br />
 <hr>
   
@@ -79,20 +89,22 @@ algorithms, data structures,probability, and statistics.
    Professional Profiles 
 </h3>
 
-
-
 <div align='center'> 
+  <div style="display: inline-block; text-align: center;">
     <a href="https://www.linkedin.com/in/samoradc/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
     </a>
     <a href="https://medium.com/@samora.davi">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
     </a>
+  </div>
+  <div style="display: inline-block; text-align: center;">
     <a href="https://www.upwork.com/freelancers/~01f757399d20db8352?viewMode=1">
       <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
     </a>
     <a href="https://www.workana.com/freelancer/586ac78626cc57098868f4b48699e405">
       <img src="https://img.shields.io/badge/Workana-FF6A00?style=for-the-badge&logo=Workana&logoColor=white">
+    </div>
     <a href="https://www.kaggle.com/samoradc">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
     </a>
