@@ -43,19 +43,19 @@ algorithms, data structures,probability, and statistics.
 
 <div style="display: inline_block"><br>
   <div style="display: inline-block; text-align: center;"> 
-    <img align="center" alt="Canta-Python" height="60" width="80" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img align="center" alt="Canta-Jupyter" height="60" width="80" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img align="center" alt="Canta-Colab" height="60" width="80" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+    <img align="center" alt="Canta-Python" height="30" width="80" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img align="center" alt="Canta-Jupyter" height="30" width="80" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+    <img align="center" alt="Canta-Colab" height="30" width="80" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
    </div> 
   <div style="display: inline-block; text-align: center;"> 
-    <img align="center" alt="Canta-Cursor" height="60" width="80" src="https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img align="center" alt="Canta-R" height="60" width="80" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-    <img align="center" alt="Canta-R-Studio" height="60" width="80" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+    <img align="center" alt="Canta-Cursor" height="30" width="80" src="https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img align="center" alt="Canta-R" height="30" width="80" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+    <img align="center" alt="Canta-R-Studio" height="30" width="80" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
   </div>
   <div style="display: inline-block; text-align: center;"> 
-  <img align="center" alt="Canta-Post" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Canta-Tableau" height="60" width="80" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />   
-  <img align="center" alt="Canta-PowerBI" height="60" width="80" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> 
+  <img align="center" alt="Canta-Post" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Canta-Tableau" height="30" width="80" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />   
+  <img align="center" alt="Canta-PowerBI" height="30" width="80" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> 
 </div>
   </div>
 <br />
