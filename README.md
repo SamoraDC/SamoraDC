@@ -112,8 +112,7 @@ algorithms, data structures,probability, and statistics.
     <a href="https://www.kaggle.com/samoradc">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
     </a>
-      <a href="http://pph.me/SamoraDC">
-        <img src="https://img.shields.io/badge/People%20per%20Hour-FF6900?style=for-the-badge&logo=peopleperhour&logoColor=white">
+  
 </div>
 <hr>
 
