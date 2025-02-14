@@ -1,17 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Hello+World+🌎!;My+Name+is+Davi+Castro+Samora;I'm+a+Data+Scientist🧑🏽‍💻;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Hello+World+🌎!;My+Name+is+Davi+Samora;I'm+a+Data+Scientist🧑🏽‍💻and...;AI+Engineer🤖;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
 
 
 <h7 align= 'center'>
   
-> Data Scientist specialized in predictive modeling and causal inference, focused on data
-analysis and applying machine learning techniques. Experienced in statistics, time
-series, econometrics, heuristics and predictive model development.
-Skilled in Python and R for statistical modeling and machine learning, with a strong foundation in
-algorithms, data structures,probability, and statistics.
-
-> Currently focused on the development of AI agents using the LangChain framework, integrating state-of-the-art natural language processing and generative AI capabilities.
+> Experienced Data Scientist and AI Engineer with a strong background in machine learning, generative AI, and predictive modeling. Skilled in developing intelligent solutions using advanced frameworks and cloud technologies, particularly in AWS. Adept at designing and implementing AI-driven projects, such as generative AI chatbots, econometric forecasting models, and automation solutions for business optimization.
 <h7 align= 'center'>
 
   [![Davi Samora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samoradc&theme=react-dark)](https://github.com/samoradc/github-readme-activity-graph)
@@ -63,7 +57,7 @@ algorithms, data structures,probability, and statistics.
   
 </h3>
 <h3 align="center">
-  Python Libraries 
+  Libraries and Frameworks
 </h3>
 
 <div align="center">
@@ -84,6 +78,8 @@ algorithms, data structures,probability, and statistics.
   </div>
     <img alt="LangGraph" height="30" width="80" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
     <img alt="LangGraph" height="30" width="80" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+    <img alt="Hugging-Face" height="30" width="80" src= "https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
+
 </div>
 
 <hr>
