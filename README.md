@@ -37,7 +37,7 @@
 
 <div style="display: inline_block"><br>
   <div style="display: inline-block; text-align: center;"> 
-    <img align="center" alt="Canta-Python" height="30" width="80" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img align="center" alt="Canta-Python" height="30" width="80" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
     <img align="center" alt="Canta-Jupyter" height="30" width="80" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img align="center" alt="Canta-Colab" height="30" width="80" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
    </div> 
@@ -62,23 +62,33 @@
 
 <div align="center">
   <div style="display: inline-block; text-align: center;">
+    <img alt="Streamlit" height="30" width="80" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+    </div>
+  <div style="display: inline-block; text-align: center; margin-top: 10px;">
+    <img alt="FastAPI" height="30" width="80" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
+    <img alt="Docker" height="30" width="80" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  </div>
+  <div style="display: inline-block; text-align: center; margin-top: 10px;">
     <img alt="Numpy" height="30" width="80" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img alt="Pandas" height="30" width="80" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     <img alt="Plotly" height="30" width="80" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+    <img alt="Matplotlib" height="30" width="80" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+    <img alt="Pandas" height="30" width="80" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img alt="SciPy" height="30" width="80" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
   </div>
   <div style="display: inline-block; text-align: center; margin-top: 10px;">
     <img alt="Scikit-learn" height="30" width="80" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />   
-    <img alt="SciPy" height="30" width="80" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
     <img alt="TensorFlow" height="30" width="80" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+    <img alt="PyTorch" height="30" width="80" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img alt="Keras" height="30" width="80" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   </div>
   <div style="display: inline-block; text-align: center; margin-top: 10px;">
-    <img alt="PyTorch" height="30" width="80" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img alt="LangChain" height="30" width="80" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
     <img alt="LangGraph" height="30" width="80" src="https://img.shields.io/badge/LangGraph-1C283C?style=for-the-badge&logo=langchain&logoColor=white" />
-  </div>
-    <img alt="LangGraph" height="30" width="80" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-    <img alt="LangGraph" height="30" width="80" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+    <img alt="Pydantic" height="30" width="80" src= "https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white" />
+    <img alt="PydanticAI" height="30" width="80" src= "https://ai.pydantic.dev/img/pydantic-ai-dark.svg">
+    <img alt="CrewAI" height="30" width="80" src= "https://img.shields.io/badge/CrewAI-blue">
     <img alt="Hugging-Face" height="30" width="80" src= "https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
+  
 
 </div>
 
