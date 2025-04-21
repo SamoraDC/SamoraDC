@@ -69,18 +69,17 @@
     <img alt="Docker" height="30" width="80" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   </div>
   <div style="display: inline-block; text-align: center; margin-top: 10px;">
-    <img alt="Numpy" height="30" width="80" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img alt="Plotly" height="30" width="80" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
-    <img alt="Matplotlib" height="30" width="80" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-    <img alt="Pandas" height="30" width="80" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img alt="SciPy" height="30" width="80" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
-  </div>
-  <div style="display: inline-block; text-align: center; margin-top: 10px;">
     <img alt="Scikit-learn" height="30" width="80" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />   
     <img alt="TensorFlow" height="30" width="80" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img alt="PyTorch" height="30" width="80" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img alt="Keras" height="30" width="80" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   </div>
+  <div style="display: inline-block; text-align: center; margin-top: 10px;">
+    <img alt="Numpy" height="30" width="80" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img alt="Plotly" height="30" width="80" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+    <img alt="Matplotlib" height="30" width="80" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+    <img alt="Pandas" height="30" width="80" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img alt="SciPy" height="30" width="80" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
   <div style="display: inline-block; text-align: center; margin-top: 10px;">
     <img alt="LangChain" height="30" width="80" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
     <img alt="LangGraph" height="30" width="80" src="https://img.shields.io/badge/LangGraph-1C283C?style=for-the-badge&logo=langchain&logoColor=white" />
