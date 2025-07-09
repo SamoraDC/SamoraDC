@@ -122,10 +122,14 @@
 <hr>
 
 <div align="center">
-  <br><p align="centre"><b>Profile Visitor Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{samoradc}/count.svg" /></p> 
+  <br>
+  <p align="center"><b>Profile Visitor Count</b></p>  
+  <p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=samoradc&label=Profile%20views&color=0e75b6&style=flat" alt="samoradc" />
+  </p> 
   <br>
 </div>
+
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
