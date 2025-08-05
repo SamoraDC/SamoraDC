@@ -33,6 +33,19 @@
 <hr>
 
 <h3 align='center'>
+ Remote Setup 💻<br/><br/>
+  <img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" /> 
+  <div style="display: inline-block; text-align: center;">
+    <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
+    <img src="https://img.shields.io/badge/Intel%20Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  </div>
+  <div style="display: inline-block; text-align: center;">
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  </div>
+</h3>
+<hr>
+
+<h3 align='center'>
   Tools 🪛
 
 <div style="display: inline_block"><br>
@@ -142,6 +155,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;Check+Out+My+Professional+Profiles+as+Well!;See+You+Around+😊)](https://git.io/typing-svg)
+
 
 
 
