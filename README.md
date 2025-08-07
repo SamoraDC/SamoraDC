@@ -15,7 +15,7 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SamoraDC&show_icons=true&count_private=true&theme=dark" width="350"></a>
 <p align='center'>
-  <a href="#"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=samoradc&theme=blue-green" width="350"></a>
+  <a href="#"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=samordc&theme=blue-green" width="350"></a>
 </p>
              
 <h3 align='center'>
@@ -155,6 +155,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;Check+Out+My+Professional+Profiles+as+Well!;See+You+Around+😊)](https://git.io/typing-svg)
+
 
 
 
