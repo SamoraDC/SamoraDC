@@ -5,7 +5,7 @@
 
 <h7 align= 'center'>
   
-> Senior Data Scientist and AI Engineer with a strong background in machine learning, generative AI, and predictive modeling. Skilled in developing intelligent solutions using advanced frameworks and cloud technologies, particularly in AWS. Adept at designing and implementing AI-driven projects, such as generative AI chatbots, semantic search (RAGs), econometric forecasting models, and automation solutions for business optimization.
+> Senior Data Scientist and AI Engineer with a strong background in machine learning, generative AI, and predictive modeling. Skilled in developing intelligent solutions using advanced frameworks and cloud technologies, particularly in AWS, Oracle Cloud and GCP. Adept at designing and implementing AI-driven projects, such as generative AI chatbots, semantic search (RAGs), econometric forecasting models and quantitative developing. 
 <h7 align= 'center'>
 
   [![Davi Samora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samoradc&theme=react-dark)](https://github.com/samoradc/github-readme-activity-graph)
