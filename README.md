@@ -18,29 +18,37 @@
              
 <h3 align='center'>
  Remote Setup 💻<br/><br/>
-  <img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" /> 
-  <div style="display: inline-block; text-align: center;">
+  <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ryzen-7%205700U%20series%20-%230071C5.svg?&style=for-the-badge&logo=AMD&Color=white" />
+    <div style="display: inline-block; text-align: center;">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/AMD%20Ryzen_9_8940HX-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   </div>
   <div style="display: inline-block; text-align: center;">
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radeon-Graphics%20-%2376B900.svg?&style=for-the-badge&logo=AMD&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX5070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   </div>
 </h3>
 <hr>
 
-<h3 align='center'>
- Remote Setup 💻<br/><br/>
-  <img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" /> 
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
-    <img src="https://img.shields.io/badge/Intel%20Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<h3 align='center'>Languages</h3>
+
+<div align='center'>
+  <img src="https://img.shields.io/badge/Python_(Native)-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/R_(Native)-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+</div>
+
+<div align='center'>
+  <img src="https://img.shields.io/badge/Rust_(Advanced)-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   </div>
-  <div style="display: inline-block; text-align: center;">
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+<div align='center'>
+  <img src="https://img.shields.io/badge/JavaScript_(Intermediate)-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript_(Intermediate)-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </div>
-</h3>
+<div align='center'>
+  <img src="https://img.shields.io/badge/C%2B%2B_(Beginner)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</div>
+
 <hr>
 
 <h3 align='center'>
@@ -74,7 +82,7 @@
   
 </h3>
 <h3 align="center">
-  Libraries and Frameworks
+  Libraries and Frameworks (Python)
 </h3>
 
 <div align="center">
@@ -159,6 +167,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;Check+Out+My+Professional+Profiles+as+Well!;See+You+Around+😊)](https://git.io/typing-svg)
+
 
 
 
