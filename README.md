@@ -18,10 +18,10 @@
              
 <h3 align='center'>
  Remote Setup 💻<br/><br/>
-  <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/hp%20OMEN-0096D6?style=for-the-badge&logo=hp&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
     <div style="display: inline-block; text-align: center;">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ubuntu-24.04.01_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/AMD%20Ryzen_9_8940HX-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   </div>
   <div style="display: inline-block; text-align: center;">
@@ -167,6 +167,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;Check+Out+My+Professional+Profiles+as+Well!;See+You+Around+😊)](https://git.io/typing-svg)
+
 
 
 
