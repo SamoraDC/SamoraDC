@@ -80,11 +80,12 @@ jobs:
           config_timezone: America/Sao_Paulo
           filename: metrics/activity.svg
           plugin_activity: yes
-          plugin_activity_days: 14
+          plugin_activity_days: 30
           plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: public
+          plugin_activity_limit: 8
+          plugin_activity_load: 500
+          plugin_activity_visibility: all
+          plugin_activity_timestamps: yes
 
       # Commit & Push all generated files
       - name: Commit & Push
