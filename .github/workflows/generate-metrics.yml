@@ -29,21 +29,23 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           filename: metrics/github-metrics.svg
+          repositories: 200
           repositories_forks: no
+          repositories_affiliations: owner, collaborator
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 300
+          plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 12
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, bytes-size
           plugin_languages_threshold: 0%
-          plugin_languages_other: yes
-          plugin_languages_repositories_limit: 0
-          plugin_languages_ignored: SamoraDC
+          plugin_languages_other: no
+          plugin_languages_skipped: SamoraDC
 
       # Languages only card (replaces top-langs)
       - name: Generate languages metrics
@@ -55,19 +57,21 @@ jobs:
           base: ""
           config_timezone: America/Sao_Paulo
           filename: metrics/languages.svg
+          repositories: 200
           repositories_forks: no
+          repositories_affiliations: owner, collaborator
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 300
+          plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 15
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, bytes-size
           plugin_languages_threshold: 0%
-          plugin_languages_other: yes
-          plugin_languages_repositories_limit: 0
-          plugin_languages_ignored: SamoraDC
+          plugin_languages_other: no
+          plugin_languages_skipped: SamoraDC
 
       # Activity graph
       - name: Generate activity metrics
