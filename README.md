@@ -2,12 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=I'm+Davi+Samora;Senior+Data+Scientist;Senior+AI+Engineer;Quantitative+Developer;and+Learning+Quant+Computing;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
 
-
 <div align="center">
 
 > Senior Data Scientist and AI Engineer with a strong background in machine learning, generative AI, and predictive modeling. Skilled in developing intelligent solutions using advanced frameworks and cloud technologies, particularly in AWS, Oracle Cloud and GCP. Adept at designing and implementing AI-driven projects, such as generative AI chatbots, semantic search (RAGs), econometric forecasting models and quantitative developing.
 
-  <img src="./metrics/github-metrics.svg" alt="GitHub Metrics" />
+<img src="./metrics/github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 <p align='center'>
@@ -17,10 +16,10 @@
 <p align='center'>
   <img src="./metrics/activity.svg" alt="Recent Activity" width="400" />
 </p>
-             
+
 <h3 align='center'>
  Remote Setup 💻<br/><br/>
-  <img src="https://img.shields.io/badge/hp%20OMEN-0096D6?style=for-the-badge&logo=hp&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/hp%20OMEN-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
     <div style="display: inline-block; text-align: center;">
     <img src="https://img.shields.io/badge/Ubuntu-24.04.01_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -109,7 +108,7 @@
 
 <hr>
 <h3 align='center'>
-   Professional Profiles (Click to pay a Visit 😜) 
+   Professional Profiles (Click to pay a Visit 😜)
 </h3>
 
 <div align='center'>
@@ -133,39 +132,16 @@
 
 <div align="center">
   <br>
-  <p align="center"><b>Profile Visitor Count</b></p>  
+  <p align="center"><b>Profile Visitor Count</b></p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=samoradc&label=Profile%20views&color=0e75b6&style=flat" alt="samoradc" />
   </p>
 
-
-  <br>
+<br>
 </div>
-
-
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;Check+Out+My+Professional+Profiles+as+Well!;See+You+Around+😊)](https://git.io/typing-svg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
