@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=I'm+Davi+Samora;Senior+Data+Scientist;Senior+AI+Engineer;Quantitative+Developer;and+Learning+Quant+Computing;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=I'm+Davi+Samora;Senior+Data+Scientist;Senior+AI+Engineer;Quantitative+Trader+and+Researcher;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
 
 <div align="center">
 
-> Senior Data Scientist and AI Engineer with a strong background in machine learning, generative AI, and predictive modeling. Skilled in developing intelligent solutions using advanced frameworks and cloud technologies, particularly in AWS, Oracle Cloud and GCP. Adept at designing and implementing AI-driven projects, such as generative AI chatbots, semantic search (RAGs), econometric forecasting models and quantitative developing.
+> Senior Data Scientist, AI Engineer and Quantitative Trader with a strong background in machine learning, Quantitative techniques, signal extraction, alpha research, generative AI, and predictive modeling. Skilled in developing intelligent solutions using advanced frameworks and cloud technologies, particularly in AWS, Oracle Cloud and GCP. Adept at designing and implementing AI-driven projects, such as generative AI chatbots, semantic search (RAGs), and quantitative research.
 
 <img src="./metrics/github-metrics.svg" alt="GitHub Metrics" />
 
