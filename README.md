@@ -1,10 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=I'm+Davi+Samora;Senior+Data+Scientist;Senior+AI+Engineer;Quantitative+Trader+and+Researcher;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40¢er=true&vCenter=true&width=1000&lines=I'm+Davi+Samora;Senior+Data+Scientist;Senior+AI+Engineer;Quantitative+Trader+and+Researcher;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
 
 <div align="center">
 
-> Senior Data Scientist, AI Engineer and Quantitative Trader with a strong background in machine learning, Quantitative techniques, signal extraction, alpha research, generative AI, and predictive modeling. Skilled in developing intelligent solutions using advanced frameworks and cloud technologies, particularly in AWS, Oracle Cloud and GCP. Adept at designing and implementing AI-driven projects, such as generative AI chatbots, semantic search (RAGs), and quantitative research.
+> Senior Data Scientist, AI Engineer and Quantitative Trader & Researcher with a strong background in machine learning, Quantitative techniques, signal extraction, alpha research, stochastic math, finacial data, and medium-frequency-trading, gamma scalping, delta hedging and predictive modeling.
+>
+> Skilled in developing intelligent solutions using advanced frameworks and cloud technologies, particularly in AWS, Oracle Cloud and GCP. Adept at designing and implementing AI-driven projects, such as generative AI agentic workflows, semantic search, agentic RAG, GraphRAG, and quantitative research.
 
 <img src="./metrics/github-metrics.svg" alt="GitHub Metrics" />
 
@@ -12,6 +14,10 @@
 <p align='center'>
   <img src="./metrics/languages.svg" alt="Top Languages" width="400" />
 </p>
+
+
+
+
 
 <p align='center'>
   <img src="./metrics/activity.svg" alt="Recent Activity" width="400" />
@@ -55,23 +61,19 @@
 <h3 align='center'>Tools</h3>
 
 <div align="center">
-  <img align="center" alt="Python" height="20" width="55" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img align="center" alt="Jupyter" height="20" width="55" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img align="center" alt="Colab" height="20" width="55" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-  <img align="center" alt="RStudio" height="20" width="55" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
-</div>
-<div align="center">
-  <img align="center" alt="Cursor" height="20" width="55" src="https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img align="center" alt="R" height="20" width="55" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-  <img align="center" alt="Tableau" height="20" width="55" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img align="center" alt="PowerBI" height="20" width="55" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-</div>
-<div align="center">
-  <img align="center" alt="PostgreSQL" height="20" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="C++" height="20" width="55" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="TypeScript" height="20" width="55" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="Rust" height="20" width="55" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
-  <img align="center" alt="JavaScript" height="20" width="55" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+  <img alt="PostgreSQL" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=%23E57324" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div>
 <br />
 <hr>
@@ -80,30 +82,24 @@
 </h3>
 
 <div align="center">
-  <img alt="Streamlit" height="20" width="55" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img alt="FastAPI" height="20" width="55" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
-  <img alt="Docker" height="20" width="55" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-<div align="center">
-  <img alt="Scikit-learn" height="20" width="55" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img alt="TensorFlow" height="20" width="55" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img alt="PyTorch" height="20" width="55" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img alt="Keras" height="20" width="55" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-</div>
-<div align="center">
-  <img alt="Numpy" height="20" width="55" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Plotly" height="20" width="55" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img alt="Matplotlib" height="20" width="55" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img alt="Pandas" height="20" width="55" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="SciPy" height="20" width="55" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
-</div>
-<div align="center">
-  <img alt="LangChain" height="20" width="55" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img alt="LangGraph" height="20" width="55" src="https://img.shields.io/badge/LangGraph-1C283C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img alt="Pydantic" height="20" width="55" src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white" />
-  <img alt="PydanticAI" height="20" width="55" src="https://ai.pydantic.dev/img/pydantic-ai-dark.svg" />
-  <img alt="CrewAI" height="20" width="55" src="https://img.shields.io/badge/CrewAI-blue" />
-  <img alt="Hugging-Face" height="20" width="55" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C283C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white" />
+  <img alt="PydanticAI" height="28" src="https://ai.pydantic.dev/img/pydantic-ai-dark.svg" />
+  <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logoColor=white" />
+  <img alt="Hugging-Face" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
 </div>
 
 <hr>
@@ -144,4 +140,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;Check+Out+My+Professional+Profiles+as+Well!;See+You+Around+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35¢er=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;Check+Out+My+Professional+Profiles+as+Well!;See+You+Around+😊)](https://git.io/typing-svg)
