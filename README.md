@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40¢er=true&vCenter=true&width=1000&lines=I'm+Davi+Samora;Senior+Data+Scientist;Senior+AI+Engineer;Quantitative+Trader+and+Researcher;Welcome+To+My+GitHub+😎)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=I'm+Davi+Samora;Senior+Data+Scientist;Senior+AI+Engineer;Quantitative+Trader+and+Researcher;Welcome+To+My+GitHub+😎" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
 
@@ -140,4 +142,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35¢er=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;Check+Out+My+Professional+Profiles+as+Well!;See+You+Around+😊)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+Visiting+Me;Check+Out+My+Professional+Profiles+as+Well!;See+You+Around+😊" alt="Typing SVG" /></a>
+</p>
