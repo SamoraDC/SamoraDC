@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=60&section=header"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=I'm+Davi+Samora;Senior+Data+Scientist;Senior+AI+Engineer;Quantitative+Trader+and+Researcher;Welcome+To+My+GitHub+😎" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=I'm+Davi+Samora;Senior+Data+Scientist;Quantitative+Researcher;Welcome+To+My+GitHub+😎" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
 
-> Senior Data Scientist, AI Engineer and Quantitative Trader & Researcher with a strong background in machine learning, Quantitative techniques, signal extraction, alpha research, stochastic math, finacial data, and medium-frequency-trading, gamma scalping, delta hedging and predictive modeling.
+> Senior Data Scientist and Quantitative Researcher with a strong background in machine learning, Quantitative techniques, signal extraction, alpha research, volatility modeler, stochastic math, finacial data, and medium-frequency-trading, gamma scalping, delta hedging and predictive modeling.
 >
 > Skilled in developing intelligent solutions using advanced frameworks and cloud technologies, particularly in AWS, Oracle Cloud and GCP. Adept at designing and implementing AI-driven projects, such as generative AI agentic workflows, semantic search, agentic RAG, GraphRAG, and quantitative research.
 
